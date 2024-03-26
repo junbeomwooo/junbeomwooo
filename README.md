@@ -33,14 +33,21 @@
   <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white" />
 </div>
 
+<h3>💻 Personal WebSite</h3>
+<div style="display:flex;">
+    <a href="https://junbeomwooo.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/junbeomwooo.github.io-100000?style=for-the-badge&logo=github&logoColor=white" 
+    </a>
+</div>  
+        
 <h3>💻 Contact</h3>
 <div style="display:flex;">
  <img src="https://img.shields.io/badge/junbeom2.woo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="https://www.linkedin.com/in/woojunbeom/"target="_blank">
+<a href="https://www.linkedin.com/in/woojunbeom/" target="_blank">
  <img src="https://img.shields.io/badge/in/woojunbeom-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
 </a>
 </div>  
-<br />
+</div> 
 
 <!--
 **junbeomwooo/junbeomwooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
