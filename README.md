@@ -2,12 +2,13 @@
 
 <div align="center">
 <h3>💻 Tech Skills</h3>
-<div style="display: flex; align center">
+<div style="display: flex;">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </div>
+    
 <div style="display:flex;">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
@@ -36,10 +37,8 @@
 <div style="display:flex;">
  <img src="https://img.shields.io/badge/junbeom2.woo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  <img src="https://img.shields.io/badge/woojunbeom-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
- <img src="https://img.shields.io/badge/wwjjjbbb-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </div>  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junbeomwooo&show_icons=true&theme=radical)
+<br />
 
 <!--
 **junbeomwooo/junbeomwooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
