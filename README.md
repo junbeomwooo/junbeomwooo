@@ -36,7 +36,9 @@
 <h3>💻 Contact</h3>
 <div style="display:flex;">
  <img src="https://img.shields.io/badge/junbeom2.woo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- <img src="https://img.shields.io/badge/in/woojunbeom-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/woojunbeom/"target="_blank">
+ <img src="https://img.shields.io/badge/in/woojunbeom-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
+</a>
 </div>  
 <br />
 
