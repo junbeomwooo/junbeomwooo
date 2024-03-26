@@ -1,7 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=50&pause=1000&color=23DE6B&background=36FF6900&center=true&vCenter=true&random=false&width=1000&height=200&lines=Front+End+%26+Back+End+Developer;Enjoy+to+learn+new+things" alt="Typing SVG" /></a>
 
+<div align="center">
 <h2 style="text-align: center;">💻 Tech Skills</h2>
-<div style="display: flex;">
+<div style="display: flex; align center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -31,6 +32,7 @@
  <img src="https://img.shields.io/badge/junbeom2.woo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  <img src="https://img.shields.io/badge/woojunbeom-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
  <img src="https://img.shields.io/badge/wwjjjbbb-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</div>
 </div>
 
 <!--
