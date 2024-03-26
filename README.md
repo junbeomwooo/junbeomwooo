@@ -39,6 +39,12 @@
      <img src="https://img.shields.io/badge/junbeomwooo.github.io-100000?style=for-the-badge&logo=github&logoColor=white" 
     </a>
 </div>  
+
+<h3>🌐 Language</h3>
+<div style="display:flex;">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/KR.svg" alt="made in KR">
+        <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/US.svg" alt="made in US">
+</div>  
         
 <h3>📝  Contact</h3>
 <div style="display:flex;">
