@@ -1,7 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=50&pause=1000&color=23DE6B&background=36FF6900&center=true&vCenter=true&random=false&width=1000&height=200&lines=Front+End+%26+Back+End+Developer;Enjoy+to+learn+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=50&pause=1000&color=F7F400&center=true&vCenter=true&random=false&width=1000&height=200&lines=Front+End+%26+Back+End+Developer;Enjoy+to+learn+new+things" alt="Typing SVG" /></a>
 
 <div align="center">
-<h3>💻 Tech Skills</h3>
+<h3>⚡Tech Skills⚡</h3>
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
 
-<h3>💻 Tools</h3>
+<h3>⚒ Tools</h3>
 <div style="display:flex;">
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
