@@ -51,8 +51,8 @@
 
 <h3>🌐 Language</h3>
 <div style="display:flex;">
-    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/KR.svg" alt="made in KR">
-        <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/US.svg" alt="made in US">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/KR.svg" alt="KOREAN">
+        <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/US.svg" alt="ENGLISH">
 </div>  
         
 <h3>📝  Contact</h3>
