@@ -45,7 +45,7 @@
 <h3>💻 Personal WebSite</h3>
 <div style="display:flex;">
     <a href="https://junbeomwoo.vercel.app/en" target="_blank">
-     <img src="https://img.shields.io/badge/Junbeom%Woo-%23323330.svg?style=for-the-badge&logoColor=white"> 
+     <img src="https://img.shields.io/badge/JunbeomWoo-%23323330.svg?style=for-the-badge&logoColor=white"> 
     </a>
 </div>  
 
