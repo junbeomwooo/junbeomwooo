@@ -44,7 +44,7 @@
 
 <h3>💻 Personal WebSite</h3>
 <div style="display:flex;">
-    <a href="https://junbeomwooo.github.io" target="_blank">
+    <a href="https://junbeomwoo.vercel.app/en" target="_blank">
      <img src="https://img.shields.io/badge/junbeomwooo.github.io-100000?style=for-the-badge&logo=github&logoColor=white" 
     </a>
 </div>  
