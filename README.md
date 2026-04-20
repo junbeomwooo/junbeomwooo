@@ -1,6 +1,6 @@
 # Junbeom Woo
 
-**Frontend Engineer** — Building clean, performant web and mobile experiences.
+**Frontend Developer** — Building clean, performant web and mobile experiences.
 
 📍 South Korea &nbsp;·&nbsp; 📧 junbeom2.woo@gmail.com &nbsp;·&nbsp; 🔗 [Portfolio](https://junbeomwoo.vercel.app/en) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/woojunbeom/)
 
