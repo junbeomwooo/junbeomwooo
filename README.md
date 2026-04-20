@@ -37,15 +37,18 @@ VS Code · Git · GitHub · Vercel · AWS · Expo · Insomnia · Adobe Illustrat
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junbeomwooo&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&hide=stars&hide_rank=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junbeomwooo&layout=compact&hide_border=true&hide_title=true&theme=transparent&langs_count=6)
+ 
+![GitHub Streak](https://streak-stats.demolab.com?user=junbeomwooo&hide_border=true&date_format=Y.n.j&mode=weekly&theme=transparent)
+
 ## Projects
 
-> *Pinned repositories below — or visit my [portfolio](https://junbeomwoo.vercel.app/en) for detailed case studies.*
+> *Visit my [portfolio](https://junbeomwoo.vercel.app/en) for details.*
 ---
 
 ## Languages
 
-🇰🇷 Korean (Native) &nbsp;·&nbsp; 🇺🇸 English (Proficient)
+🇰🇷 Korean (Native) &nbsp;·&nbsp; 🇬🇧 🇺🇸 English (Proficient)
 
----
-
-<sub>Open to interesting problems. Feel free to reach out.</sub>
