@@ -14,38 +14,45 @@ I’m a frontend developer focused on building intuitive user interfaces with Re
 
 ## Tech Stack
 
-**Languages**
+**Languages**  
 TypeScript · JavaScript · HTML · CSS
 
-**Frontend**
+**Frontend**  
 React · Next.js · React Native · Redux · Context API · React Query
 
-**Styling**
+**Styling**  
 Tailwind CSS · Styled Components · SASS
 
-**Backend & Data**
+**Backend & Data**  
 Node.js · Express.js · MySQL
 
-**Testing**
+**Testing**  
 Jest
 
-**Visualization**
+**Visualization**  
 Chart.js
 
-**Tools & Platforms**
+**Tools & Platforms**  
 VS Code · Git · GitHub · Vercel · AWS · Expo · Adobe Illustrator · Photoshop
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junbeomwooo&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&hide=stars&hide_rank=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junbeomwooo&layout=compact&hide_border=true&hide_title=true&theme=transparent&langs_count=6)
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=junbeomwooo&hide_border=true&date_format=Y.n.j&mode=weekly&theme=transparent)
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=junbeomwooo&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&hide=stars&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junbeomwooo&layout=compact&hide_border=true&hide_title=true&theme=transparent&langs_count=6" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=junbeomwooo&hide_border=true&date_format=Y.n.j&mode=weekly&theme=transparent" />
+</div>
+
+
+---
 
 ## Projects
 
 > *Visit my [portfolio](https://junbeomwoo.vercel.app/en) for details.*
+> 
 ---
 
 ## Languages
