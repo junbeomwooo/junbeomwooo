@@ -50,5 +50,5 @@ VS Code · Git · GitHub · Vercel · AWS · Expo · Adobe Illustrator · Photos
 
 ## Languages
 
-🇰🇷 Korean (Native) &nbsp;·&nbsp; 🇬🇧 🇺🇸 English (Proficient)
+🇰🇷 Korean (Native) &nbsp;·&nbsp; 🇬🇧 English (Proficient)
 
