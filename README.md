@@ -24,7 +24,7 @@ React · Next.js · React Native · Redux · Context API · React Query
 Tailwind CSS · Styled Components · SASS
 
 **Backend & Data**  
-Node.js · Express/Hono · MySQL
+Node.js · Express/Hono · MySQL · Drizzle
 
 **Testing**  
 Jest
