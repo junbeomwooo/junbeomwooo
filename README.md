@@ -33,7 +33,7 @@ Jest
 Chart.js
 
 **Tools & Platforms**  
-VS Code · Git · GitHub · Vercel · AWS · Oracle · Expo · Adobe Illustrator · Photoshop
+VS Code · Git · GitHub · Vercel · AWS · OCI · Expo · Adobe Illustrator · Photoshop
 
 ---
 
