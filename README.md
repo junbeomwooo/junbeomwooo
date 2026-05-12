@@ -1,6 +1,6 @@
 # Junbeom Woo
 
-**Frontend Developer** — Building clean, performant web and mobile experiences.
+**FullStack Developer** — Building clean, performant web and mobile experiences.
 
 📍 Copenhagen, Denmark &nbsp;·&nbsp; 📧 junbeom2.woo@gmail.com &nbsp;·&nbsp; 🔗 [Portfolio](https://junbeomwoo.vercel.app/en) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/woojunbeom/)
 
